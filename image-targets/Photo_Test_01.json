@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 96,
+    "left": 0,
+    "width": 1495,
+    "height": 1993,
+    "isRotated": false,
+    "originalWidth": 1495,
+    "originalHeight": 2187
+  },
+  "imagePath": "image-targets/Photo_Test_01_luminance.jpg",
+  "metadata": null,
+  "name": "Photo_Test_01",
+  "resources": {
+    "originalImage": "Photo_Test_01_original.jpg",
+    "croppedImage": "Photo_Test_01_cropped.jpg",
+    "thumbnailImage": "Photo_Test_01_thumbnail.jpg",
+    "luminanceImage": "Photo_Test_01_luminance.jpg"
+  },
+  "created": 1795439668902,
+  "updated": 1795439668902
+}
